@@ -1,5 +1,22 @@
 # Planning Persuasive Trajectories Based on a Leader-Follower Game Model
-This repo host the parameters and the source code for manuscript that is accepted by MECC 2025
+This repository hosts the parameters and the source code for manuscript that is accepted by MECC 2025
+
+**Planning Persuasive Trajectories Based on a Leader-Follower Game Model** \
+[**[arXiv]**](https://arxiv.org/abs/2507.22022).
+
+# Citation
+
+```
+@InProceedings{he2025MECC,
+      title={Planning Persuasive Trajectories Based on a Leader-Follower Game Model}, 
+      author={Chaozhe R. He and Yichen Dong and Nan Li},
+      year={2025},
+      eprint={2507.22022},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2507.22022}, 
+}
+```
 
 ## Requirements
 MATLAB 2023b and above
